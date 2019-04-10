@@ -1,0 +1,9 @@
+@import url("bootstrap.min.css");
+
+.jumbotron {
+    background-image: url(985Yukina-Minato-Cool-q0biXF.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: top;
+    color:white;
+}
